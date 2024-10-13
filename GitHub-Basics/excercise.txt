@@ -1,0 +1,5 @@
+1. interface in which you use text commands
+
+2. Git is the version control system, while GitHub is the web-based platform where devolpers collab on code using the Git version control system.
+
+3. on Github you would press fork and press the green button labeled "create fork". Now you have created a copy of the repository on your account, you can modify it and push your modifications to the original if you want to contribute.
